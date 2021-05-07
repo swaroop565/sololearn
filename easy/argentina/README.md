@@ -11,8 +11,8 @@ Output Format :
 
 A string that says 'give away' if you are giving them away, or 'eat them yourself' if you will be eating them yourself. 
  
-Sample Input 
+Sample Input :
 3 9 
  
-Sample Output 
+Sample Output :
 give away
